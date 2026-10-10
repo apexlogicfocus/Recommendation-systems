@@ -44,6 +44,4 @@ Neural Collaborative Filtering
 
 Variational Autoencoders for Collaborative Filtering Evaluations Evaluating Recommendation Systems
 
-<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
-
 
